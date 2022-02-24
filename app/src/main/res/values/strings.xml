@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="addItemButtonDesc">Adds an item to list</string>
+</resources>
